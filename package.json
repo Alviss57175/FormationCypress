@@ -1,0 +1,23 @@
+{
+  "name": "formationcypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alviss57175/FormationCypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alviss57175/FormationCypress/issues"
+  },
+  "homepage": "https://github.com/Alviss57175/FormationCypress#readme",
+  "devDependencies": {
+    "cypress": "^13.5.1"
+  }
+}
