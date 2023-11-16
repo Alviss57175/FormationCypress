@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "script": {
+
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Alviss57175/FormationCypress.git"
